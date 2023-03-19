@@ -1,0 +1,25 @@
+    {
+      com.badlogic.gdx.graphics.g2d.BitmapFont: {
+        titletext: { file: titolo.fnt },
+        normaltext: { file: normal.fnt },
+    },
+      com.badlogic.gdx.graphics.Color: {
+        red: { a: 1, b: 0, g: 0, r: 1 },
+        green: { a: 1, b: 0, g: 1, r: 0 },
+        blue: { a: 1, b: 1, g: 0, r: 0 },
+        white: { hex: "FFFFFF" },
+        black: { hex: "000000" },
+    },
+      com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+        title-text: { font: titletext, fontColor: white },
+        default: { font: normaltext, fontColor: white },
+    },
+      com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+        default: { up: pause, down: pause_press, imageChecked: pause },
+        cup: { up: cup, down: cup_press, imageChecked: cup },
+        exit: { up: exit, down: exit_press, imageChecked: exit },
+        play: { up: play, down: play_press, imageChecked: play },
+        pause: { up: pause, down: pause_press, imageChecked: pause },
+
+      },
+    }

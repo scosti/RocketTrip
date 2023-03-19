@@ -1,0 +1,47 @@
+
+Rocket.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rocket_1
+  rotate: false
+  xy: 1, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: 1
+rocket_2
+  rotate: false
+  xy: 92, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: 2
+rocket_3
+  rotate: false
+  xy: 183, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: 3
+rocket_trip1
+  rotate: false
+  xy: 274, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+rocket_trip2
+  rotate: false
+  xy: 365, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+rocket_trip3
+  rotate: false
+  xy: 456, 1
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1

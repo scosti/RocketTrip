@@ -1,0 +1,47 @@
+
+alien.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alien4
+  rotate: false
+  xy: 1, 119
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1
+alien5
+  rotate: false
+  xy: 1, 1
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1
+alien2
+  rotate: false
+  xy: 177, 120
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+alien3
+  rotate: false
+  xy: 177, 3
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+alien6
+  rotate: false
+  xy: 353, 121
+  size: 175, 114
+  orig: 175, 114
+  offset: 0, 0
+  index: -1
+alien1
+  rotate: false
+  xy: 353, 4
+  size: 173, 115
+  orig: 173, 115
+  offset: 0, 0
+  index: -1
