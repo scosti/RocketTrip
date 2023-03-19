@@ -1,6 +1,7 @@
 # RocketTrip
 RocketTrip is a game based on framework libgdx
 
+![image](https://user-images.githubusercontent.com/17886711/226198926-a20bca30-4e00-4f55-9c8c-2aaedf535851.png)
 
 
 ![strategypattern](https://user-images.githubusercontent.com/17886711/128635299-91e6d301-8821-484a-b14a-6f8894a3ce83.png)
